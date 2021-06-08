@@ -1,0 +1,124 @@
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+
+
+h2 {
+  color: #BF7EF8;  
+}
+.aa-primary-btn:hover, .aa-primary-btn:focus {
+  color: #BF7EF8; 
+  border-color: #BF7EF8;
+}
+.aa-secondary-btn {  
+  color: #BF7EF8;  
+}
+.aa-secondary-btn:hover, .aa-secondary-btn:focus {
+  background-color: #BF7EF8;  
+}
+.aa-browse-btn {
+  background-color: #BF7EF8;  
+  border: 1px solid #BF7EF8;  
+}
+.aa-browse-btn:hover, .aa-browse-btn:focus {
+  color: #BF7EF8;
+}
+.aa-add-to-cart-btn:hover, .aa-add-to-cart-btn:focus {
+  color: #BF7EF8;
+  border-color: #BF7EF8;
+}
+.aa-filter-btn {
+  background-color: #BF7EF8;
+  border: 1px solid #BF7EF8;  
+}
+.aa-cart-view-btn {
+  background-color: #BF7EF8;  
+}
+
+
+.scrollToTop {
+  background-color: #BF7EF8;
+  border: 1px solid #BF7EF8;  
+}
+.scrollToTop:hover,
+.scrollToTop:focus { 
+  color: #BF7EF8; 
+}
+
+
+.aa-product-catg li figure .aa-add-card-btn:hover {
+  color: #BF7EF8;
+}
+.aa-product-catg li .aa-product-title a:hover, .aa-product-catg li .aa-product-title a:focus {
+  color: #BF7EF8;
+}
+.aa-product-catg li .aa-product-price {
+  color: #BF7EF8;  
+}
+.aa-product-catg li .aa-product-hvr-content a:hover, .aa-product-catg li .aa-product-hvr-content a:focus {
+  color: #BF7EF8;
+}
+#quick-view-modal .modal-content button.close:hover {
+  color: #BF7EF8; 
+}
+#quick-view-modal .modal-content .aa-product-view-content .aa-price-block .aa-product-avilability span {
+  color: #BF7EF8;
+}
+#quick-view-modal .modal-content .aa-product-view-content .aa-prod-view-size a:hover, #quick-view-modal .modal-content .aa-product-view-content .aa-prod-view-size a:focus {
+  border-color: #BF7EF8;
+  color: #BF7EF8;
+}
+#quick-view-modal .modal-content .aa-product-view-content .aa-prod-quantity .aa-prod-category a {
+  color: #BF7EF8; 
+}
+.slick-prev,
+.slick-next {
+  background-color: #BF7EF8;
+}
+
+
+#aa-product-details .aa-product-details-area .aa-product-details-content .aa-product-view-content .aa-prod-quantity .aa-prod-category a {
+  color: #BF7EF8;
+}
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .nav-tabs li a:hover, #aa-product-details .aa-product-details-area .aa-product-details-bottom .nav-tabs li a:focus {
+  color: #BF7EF8;
+}
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .aa-review-form .aa-review-submit {  
+  background-color: #BF7EF8;  
+  border-color: #BF7EF8;  
+}
+#aa-product-details .aa-product-details-area .aa-product-details-bottom .aa-review-form .form-control:focus {
+  border-color: #BF7EF8;
+}
+#cart-view .cart-view-area .cart-view-table .table tbody tr td .aa-cart-title {
+  color: #BF7EF8;
+}
+#cart-view .cart-view-area .cart-view-table .table tbody tr td .aa-cart-title:hover {
+  color: #BF7EF8;
+}
+#checkout .checkout-area .checkout-left .panel-group .panel-default .panel-heading .panel-title a { 
+  color: #BF7EF8;
+}
+#checkout .checkout-area .checkout-right h4 { 
+  color: #BF7EF8;
+}
+#login-modal .modal-dialog .aa-register-now a {
+  color: #BF7EF8;
+}
+
+#aa-error .aa-error-area {
+  border: 5px solid #BF7EF8;  
+}
+#aa-error .aa-error-area h2 {
+  border-bottom: 3px solid #BF7EF8;  
+}
+#aa-error .aa-error-area a:hover, #aa-error .aa-error-area a:focus {
+  color: #BF7EF8;
+  border-color: #BF7EF8;
+}
+#wpf-loader-two{
+
+  background-color: #BF7EF8;
+}
